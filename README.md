@@ -1,8 +1,8 @@
-#       ____        
-#      / __ \___  __
-#     / /_/ / _ \/ /
-#    / _, _/  __/ / 
-#   /_/ |_|\___/_/  
+       ____        
+      / __ \___  __
+     / /_/ / _ \/ /
+    / _, _/  __/ / 
+   /_/ |_|\___/_/  
  
  Automate IP Reputation from AbuseIPDB &amp; VT , and with other field as well.
 
