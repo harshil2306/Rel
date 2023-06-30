@@ -61,7 +61,7 @@ def get_ip_information(ip):
 
 def main():
     input_csv_file = "sample.csv"  # Replace with your CSV file path
-    output_csv_file = "test2.csv"  # Replace with desired output CSV file path
+    output_csv_file = "result.csv"  # Replace with desired output CSV file path
 
     with open(input_csv_file, "r") as file:
         reader = csv.reader(file)
